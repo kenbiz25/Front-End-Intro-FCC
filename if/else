@@ -1,0 +1,5 @@
+print("what is your name?")
+name=input()
+if name=="Alice":
+    print("Hi, Alice welcome to Nairobi"),
+else:print("wrong password")
