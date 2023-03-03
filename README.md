@@ -1,3 +1,7 @@
+Repo Vision and Overview
+---
+Welcome to my repository. This is a project started in 2021 to learn about CSS,HTML and JS as a fondation to learn basis in my journey to understand backend and analytics. Here is a sample HTML styled page made on [FREECODECAMP.COM]
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
